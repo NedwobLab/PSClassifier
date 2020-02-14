@@ -8,7 +8,7 @@ Grant:		National Science Foundation NSF Grant, 1430508
 Created by:	Joshua Borycz, Stevenson Science and Engineering Library, joshua.d.borycz@vanderbilt.edu
 Owned by:	Audrey Bowden, Associate Professor of Biomedical Engineering, a.bowden@vanderbilt.edu
 
-Date of last update: 2019_10_13 Revision History: Date		Person who made revision	Notes on revision 2019_10_11	Joshua Borycz			created README document and file structure 2019_10_13	Audrey Bowden			adjusted README document
+Date of last update: 2020_02_14 Revision History: Date		Person who made revision	Notes on revision 2019_10_11	Joshua Borycz			created README document and file structure 2019_10_13	Audrey Bowden			adjusted README document
 
 Files location: /Users/boryczjd/Documents/Vanderbilt/Data_consulting/Bowden_group/Example_research_folder/new_file_structure_v001/projects/140718_PSClassifier
 
